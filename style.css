@@ -1,0 +1,21 @@
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: auto 0;
+    height: auto 0;
+    color:azure ;
+}
+
+.button{
+    border: none;
+    height: 30px;
+    width: 120px;
+    border-radius: 30px;
+    color: white;
+    background: rgb(2,0,36);
+    background: linear-gradient(18deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.7791491596638656) 35%, rgba(0,212,255,1) 100%);    
+}
